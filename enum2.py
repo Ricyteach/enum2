@@ -1,3 +1,7 @@
+"""Rudimentary implementation of enum.Enum for python 2."""
+
+__version__ = "1.0"
+
 class EnumMeta(type):
     """Enum type metaclass."""
 
